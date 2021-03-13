@@ -1,4 +1,4 @@
-module github.com/v1perm00n/go-adyen-ces
+module github.com/v1perm00n/go-adyen-ces3
 
 go 1.13
 
