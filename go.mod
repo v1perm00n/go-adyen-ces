@@ -1,4 +1,4 @@
-module zhaojunlike/adyen
+module github.com/v1perm00n/go-adyen-ces
 
 go 1.13
 
