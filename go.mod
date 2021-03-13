@@ -7,4 +7,4 @@ require (
 	zhaojunlike/logger v1.0.0
 )
 
-replace zhaojunlike/logger => ../logger
+replace  github.com/zhaojunlike/logger => ../logger
